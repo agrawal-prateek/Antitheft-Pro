@@ -49,10 +49,16 @@ This project contains Client Machine and Server Machine code-
 
 **Note: Port can changed from main.py in the project directory**
 
-#### For any info contact me on
 
-[prateekagrawal@gmail.com](mailto://prateekagrawal@gmail.com)
+For any query, feel free and contact me
 
-(+91) 7464847884
 
-# Thanks for reading
+**Prateek Agrawal**  
+prateekagrawal89760@gmail.com  
+[Website][4] | [LinkedIn][5] | (+91) 7464847884
+
+#### Thanks for Reading
+
+
+ [4]: http://agrawal-prateek.github.io
+ [5]: https://www.linkedin.com/in/agrawal-prateek
