@@ -1,9 +1,6 @@
-# Website to control Security system
+# A Security system
 
-Antitheft Pro is a Web App to control the security system. This website is made for product **Antitheft Pro**. This security system can be used to secure costly things like Jwellery, Money, Confidencial Documents etc. This Product can be used in **Banks, Showrooms, Jwellery Shops, Homes** etc.
-
-This product costs between Rs. 20,000 to Rs. 50,000.
-
+Antitheft Pro is security system. This is a software for that security system. This security system can be used to secure costly things like Jwellery, Money, Confidencial Documents etc. This Product can be used in `Banks`, `Showrooms`, `Jwellery Shops`, `Homes` etc. This security system is used for prevent thefting as some special functionalities to catch the theif.
 
 ### Requirements
 
@@ -14,14 +11,17 @@ This product costs between Rs. 20,000 to Rs. 50,000.
 - Flask-Uploads
 
 
+### OS
+- Ubuntu Mate or Noobs
+
 **Note-** Some other libraries are required which are different for client and server. These can be installed via:
 
         pip install -r requirements.txt
         
 This project contains Client Machine and Server Machine code-
 
-- Copy **Antitheft-Client** is for Product **(Client Machine Raspberry Pi)** which can be copied to raspberry pi **(In /home/pi)**.
-- Host **Antitheft-Server** on the cloud. This is website which can be used to **Control** and **Monitor** the system.
+- Copy `Antitheft Client`is for Product `Client Machine Raspberry Pi` which can  be copied to raspberry pi `In /home/pi`.
+- Host `Antitheft-Server` on the cloud. Software can be used to `Control` and `Monitor` the system.
 
 ### Installation Procedure for Server
 - First Update Your system by executing following commands
@@ -33,7 +33,7 @@ This project contains Client Machine and Server Machine code-
      
          sudo apt-get install --upgrade python3
 
-- Now install **pip**
+- Now install `pip`
 
         sudo apt-get install python-pip --upgrade
         
